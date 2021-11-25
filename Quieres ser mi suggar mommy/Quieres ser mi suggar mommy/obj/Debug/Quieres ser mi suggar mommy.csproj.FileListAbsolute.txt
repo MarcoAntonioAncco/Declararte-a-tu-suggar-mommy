@@ -1,0 +1,12 @@
+D:\visual studio 2019\Quieres ser mi suggar mommy\Quieres ser mi suggar mommy\bin\Debug\Quieres ser mi suggar mommy.exe.config
+D:\visual studio 2019\Quieres ser mi suggar mommy\Quieres ser mi suggar mommy\bin\Debug\Quieres ser mi suggar mommy.exe
+D:\visual studio 2019\Quieres ser mi suggar mommy\Quieres ser mi suggar mommy\bin\Debug\Quieres ser mi suggar mommy.pdb
+D:\visual studio 2019\Quieres ser mi suggar mommy\Quieres ser mi suggar mommy\obj\Debug\Quieres_ser_mi_suggar_mommy.Form1.resources
+D:\visual studio 2019\Quieres ser mi suggar mommy\Quieres ser mi suggar mommy\obj\Debug\Quieres_ser_mi_suggar_mommy.Properties.Resources.resources
+D:\visual studio 2019\Quieres ser mi suggar mommy\Quieres ser mi suggar mommy\obj\Debug\Quieres ser mi suggar mommy.csproj.GenerateResource.cache
+D:\visual studio 2019\Quieres ser mi suggar mommy\Quieres ser mi suggar mommy\obj\Debug\Quieres ser mi suggar mommy.csproj.CoreCompileInputs.cache
+D:\visual studio 2019\Quieres ser mi suggar mommy\Quieres ser mi suggar mommy\obj\Debug\Quieres ser mi suggar mommy.exe
+D:\visual studio 2019\Quieres ser mi suggar mommy\Quieres ser mi suggar mommy\obj\Debug\Quieres ser mi suggar mommy.pdb
+D:\visual studio 2019\Quieres ser mi suggar mommy\Quieres ser mi suggar mommy\obj\Debug\Quieres ser mi suggar mommy.csproj.AssemblyReference.cache
+D:\visual studio 2019\Quieres ser mi suggar mommy\Quieres ser mi suggar mommy\obj\Debug\Quieres_ser_mi_suggar_mommy.Form2.resources
+D:\visual studio 2019\Quieres ser mi suggar mommy\Quieres ser mi suggar mommy\obj\Debug\Quieres_ser_mi_suggar_mommy.Frmlogin.resources
